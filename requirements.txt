@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 flask
 pandas
 numpy
 scikit-learn
+=======
+opencv-python
+numpy
+>>>>>>> ce0da080476aac140fdd3147c8e2396f6ed806d3
